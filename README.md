@@ -24,11 +24,11 @@ Based on the above formula, the following the basic elements can be defined:
 Relationships and resources are divided into structural and attribute demensions independently classified yet flexibly combinable for refined analysis.  
 ### Structural Classification  
 • **Relationships**:  
-  • **Strong Relationships**: High frequency of interaction, signiﬁcant inﬂuence on subject development, relatively stable.  
-  • **Weak Relationships**: Low frequency of interaction, weak  emotional bonds, limited inﬂuence on subject development, often representing shallow social ties.  
+  &nbsp&nbsp• **Strong Relationships**: High frequency of interaction, signiﬁcant inﬂuence on subject development, relatively stable.  
+  &nbsp&nbsp• **Weak Relationships**: Low frequency of interaction, weak  emotional bonds, limited inﬂuence on subject development, often representing shallow social ties.  
 • **Resources**:    
-  • **Strong Resources**: Highly scarce, not easily substitutable, strongly promote subject development.  
-  • **Weak Resources**: Commonly available, limited inﬂuence on subject development.  
+  &nbsp&nbsp• **Strong Resources**: Highly scarce, not easily substitutable, strongly promote subject development.  
+ &nbsp &nbsp• **Weak Resources**: Commonly available, limited inﬂuence on subject development.  
 ### Attribute Classiﬁcation  
 • **Emotional Attributes**: Relationships or resources that primarily impact internal integration, identity, and value systems.  
 • **Value Attributes**: Relationships or resources that serve external, instrumental, or strategic goals.  
@@ -38,11 +38,11 @@ Relationships and resources are divided into structural and attribute demensions
 
 # Basic Cyclical Mechanisms
 • **Strong Cycles**: Self-reinforcing feedback loops between strong relationships and strong resources. These cycles are stable and often closed.  
-  • **Positive Strong Cycle**: Strong relationships and strong resources reinforce each other, creating virtuous cycles (e.g., a stable strategic partnership providing key technologies).  
-  • **Negative Strong Cycle**: Strong relationships and strong resources form feedback with signiﬁcant negative eﬀects on development.  
+ &nbsp&nbsp • **Positive Strong Cycle**: Strong relationships and strong resources reinforce each other, creating virtuous cycles (e.g., a stable strategic partnership providing key technologies).  
+  &nbsp&nbsp• **Negative Strong Cycle**: Strong relationships and strong resources form feedback with signiﬁcant negative eﬀects on development.  
 • **Weak Cycles**: Basic dynamic feedback processes occurring between weak relationships and weak resources, serving as starting points for development. These cycles are open and dynamic.  
-  • **Positive Weak Cycle**: Continuous  investment of weak resources builds weak relationships, leading to accumulation of new positive resources.  
-  • **Negative Weak Cycle**: Weak resource investment into weak relationships leads to continuous depletion without eﬀective output.
+  &nbsp&nbsp• **Positive Weak Cycle**: Continuous  investment of weak resources builds weak relationships, leading to accumulation of new positive resources.  
+ &nbsp&nbsp • **Negative Weak Cycle**: Weak resource investment into weak relationships leads to continuous depletion without eﬀective output.
 • **Stagnation or Decline**: Failure to sustain resources or relationships leads to halted or declining cycles.  
 • **Asymmetric Cycles**: Unbalanced interactions between strong and weak elements, characterized by instability, often serving as transformation nodes for system leaps or declines.  
  
@@ -53,8 +53,8 @@ The model analyzes system structure and resource ﬂow mechanisms. Core elements
 • **Relationships**: Channels for resource exchange and ﬂow between subjects. Strength indicates stability and bandwidth, positivity/negativity determines direction, emotional/value determines resource type.  
 • **Resources**: Functional content units activated or carried by relationship structures.  
 • Variables:  
-  • **Subject Traits**: Internal variable inﬂuencing channel-building capacity and resource transformation eﬃciency.  
-  • **Environmental Factors**: External variable inﬂuencing network structure and channel ﬂow.  
+ &nbsp&nbsp • **Subject Traits**: Internal variable inﬂuencing channel-building capacity and resource transformation eﬃciency.  
+ &nbsp&nbsp • **Environmental Factors**: External variable inﬂuencing network structure and channel ﬂow.  
 Additional components:  
 • **Pollution Nodes**: Extract positive resources, mainly output negative resources.  
 • **Puriﬁcation Nodes**: Absorb negative resources, mainly output positive resources.  
